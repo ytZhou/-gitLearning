@@ -10,3 +10,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 Adding new content to branch dev.
+Creating a new branch is quick & simple.
